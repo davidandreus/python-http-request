@@ -1,0 +1,7 @@
+# Python 3.8.0
+# Estos módulos son parte de la librería estándar de python
+# request -> HTTP requests
+# re -> regular expressions
+
+requests
+re
